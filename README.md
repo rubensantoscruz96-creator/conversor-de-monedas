@@ -1,0 +1,1 @@
+Conversor de Monedas es una aplicación de Escritorio para realizar conversión de valores de una moneda a otra usando la API ExchangeRate. Elige la opción deseada para seleccionar las monedas origen y destino, ingresa el monto a convertir y el aplicativo arrojará el monto resultante.
